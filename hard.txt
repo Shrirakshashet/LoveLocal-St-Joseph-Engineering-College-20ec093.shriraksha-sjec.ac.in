@@ -1,4 +1,4 @@
-def shortest_palindrome(s):
+2)def shortest_palindrome(s):
     if not s:
         return ""
 
