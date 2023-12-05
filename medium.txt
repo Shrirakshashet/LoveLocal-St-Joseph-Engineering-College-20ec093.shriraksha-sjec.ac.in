@@ -1,4 +1,4 @@
-def majority_elements(nums):
+2)def majority_elements(nums):
     if not nums:
         return []
 
